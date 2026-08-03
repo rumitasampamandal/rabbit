@@ -11,7 +11,7 @@ cover.innerHTML = `
 book.appendChild(cover);
 
 // All Pages
-for (let i = 1; i <= 25; i++) {
+for (let i = 1; i <= 26; i++) {
 
     const page = document.createElement("div");
 
